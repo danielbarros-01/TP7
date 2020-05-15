@@ -1,0 +1,7 @@
+¿Por qué ambos tienen la misma cantidad si al último alumno lo inscribió en 4
+materias?
+b. ¿Qué tipo de colección implementó para evitar materias repetidas y que otras
+cuestiones tuvo que modificar?
+
+R=Porque se implemento un HashSet que no permite elementos repetidos, aun asi un condicional que especifica
+que no se puede inscribir en una materia ya inscripto/a.
